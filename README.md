@@ -37,3 +37,5 @@ D. Main Class:
       - Demonstrates the creation of Manufacture, Engine, and Vehicle objects.
       - Uses an array of Vehicle to hold different types of vehicles and calls the ShowCharacteristics() method to display their details.
 
+<< How to run the code >>
+      Compile all the classes and run the 'Main' class
